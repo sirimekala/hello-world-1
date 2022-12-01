@@ -222,7 +222,7 @@
  <distributionManagement>
     <snapshotRepository>
       <id>maven-snapshots</id>
-      <url>http://52.193.146.170:8081/repository/maven-snapshots/</url>
+      <url>https://github.com/sirimekala/hello-world-1.git</url>
     </snapshotRepository>
  </distributionManagement>
 </project>
